@@ -1,0 +1,8 @@
+numpy==1.26.4
+matplotlib
+seaborn
+scikit-learn
+opencv-python-headless
+Pillow
+tensorflow==2.19.0
+scikit-learn
